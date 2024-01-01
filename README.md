@@ -1,3 +1,6 @@
+# Korean Jaso Analyzer for OpenSearch 2.11.1
+이 프로그램은 아래의 프로그램을 Opensearch에서 사용하기 위해 설정 변경한 것입니다.
+
 # Korean Jaso Analyzer for Elasticsearch 8.6.2 
   (자동완성 플러그인)
 
